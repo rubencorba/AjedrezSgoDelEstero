@@ -153,9 +153,9 @@ h1{
     padding: 40px;
 }
 
-.proyectos-recientes img {
-    height: 100%;
-    width: 100%;
+.proyecto img {
+    height: 50%;
+    width: 50%;
     border-radius: 10px;
     padding: 10px;
     display: block;
@@ -383,11 +383,11 @@ footer {
 
 /* Adaptable (responsivo) */
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
     .navbar-brand {
         display: none;
     }
-}
+} */
 
 @media screen and (min-width: 700px) {
     .hero-inferior-imagen {
