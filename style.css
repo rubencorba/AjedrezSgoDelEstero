@@ -34,6 +34,10 @@
     color: #615151;
 }
 
+.hero .container {
+    padding: 1rem;
+}
+
 
 /* Secciones generales */
 section{
@@ -90,13 +94,17 @@ h1{
 /* Sobre mi */
 
 .sobre-mi {
-    height: 500px;
+    /* height: 500px; */
     padding: 10px;
 }
 
 .sobre-mi .contenedor {
     max-width: 600px;
     text-align: center;
+}
+
+.table-borderer {
+    border-radius: 15px;
 }
 
 /* Experiencia */
