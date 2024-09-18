@@ -190,6 +190,11 @@ h1{
     margin-bottom: 40px;
 }
 
+.proyectos-contenedor1 a{
+    font-size: 20px;
+    margin: 3px;
+}
+
 .overlay {
     transition: all 0.2s ease;
     opacity: 0;
@@ -428,6 +433,12 @@ footer {
 @media screen and (min-width: 700px) {
     .hero-inferior-imagen {
         max-width: 600px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .proyectos-contenedor1 a{
+        font-size: 8px;
+        margin: 3px;
     }
 }
 
