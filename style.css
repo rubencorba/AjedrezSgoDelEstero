@@ -12,9 +12,9 @@
 }
 
 /* Seccion hero */
-.ventajedrez1 {
+.ventajedrez1 img{
     text-align: center;
- 
+    width: 20rem;
     border: 10px; 
     border-radius: 10px; 
     border-color: black;
